@@ -27,6 +27,5 @@ This system provides a user-friendly interface for managing inventory with the f
 ## Screenshots
 ![Dashboard](screenshots/image.png)
 ![Employee details](screenshots/image-1.png)
-![supplier details](screenshots/image-2.png)
 ![Billing](screenshots/image-3.png) 
 
